@@ -1,6 +1,6 @@
 # broken_campus_report
 
-## Project Laporan Kerusakan Kmapus, dimana terdapat bug:
+## Project Laporan Kerusakan Kampus, dimana terdapat bug:
 1. indexing
 2. nullable value
 3. Bottom Overflow
