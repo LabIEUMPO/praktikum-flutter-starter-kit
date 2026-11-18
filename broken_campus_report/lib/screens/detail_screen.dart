@@ -24,9 +24,9 @@ class DetailScreen extends StatelessWidget {
           children: [
             Text(report.title),
             Text(report.location),
-            Text(report.description!),
+            Text(report.description),
             Text(report.status),
-            Text(report.reporter!),
+            Text(report.reporter),
           ],
         ),
       ),
