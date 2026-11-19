@@ -5,6 +5,7 @@ import 'screens/product_list_screen.dart';
 import 'services/product_service.dart';
 
 Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await dotenv.load(fileName: ".env");
   runApp(const MyApp());
 }
